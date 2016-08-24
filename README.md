@@ -1,5 +1,5 @@
 Author: Jasmin Mousavi 
-LinusTorvalds
+⋅⋅⋅LinusTorvalds
 - Named after Linus Pauling, the famous physics chemist and Nobel prize winner 
 - His maternal grandfather, Leo Toerngvist (professor of statistics) who bought his first personal computer, the commodore Vic 20
 - He got bored with the few programs available for it so he started creating his own, first Hsiang the basic programming language then using a more powerful language such as assembly
